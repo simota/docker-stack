@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <!-- Master app icon: the StackBayEmblem (ui/src/components/ui.tsx), 28x24 grid scaled x28 and centred. -->
+  <rect x="64" y="64" width="896" height="896" rx="200" fill="#121821"/>
+  <g transform="translate(120 176) scale(28)">
+    <rect x="2" y="2" width="6.5" height="6" rx="1.2" fill="#2fb47a"/>
+    <rect x="11" y="2" width="6.5" height="6" rx="1.2" fill="#2fb47a"/>
+    <rect x="20" y="2" width="6.5" height="6" rx="1.2" fill="#2fb47a"/>
+    <rect x="2" y="10" width="6.5" height="6" rx="1.2" fill="#2fb47a"/>
+    <rect x="11" y="10" width="6.5" height="6" rx="1.2" fill="#3a4658"/>
+    <rect x="20" y="10" width="6.5" height="6" rx="1.2" fill="#3a4658"/>
+    <rect x="1" y="19" width="26" height="3" rx="1" fill="#1d63ed"/>
+  </g>
+</svg>
